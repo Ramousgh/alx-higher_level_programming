@@ -12,4 +12,4 @@ if __name__ == "__main__":
 
              sum += int(agv[i])
 
-    print(sum)
+        print(sum)
