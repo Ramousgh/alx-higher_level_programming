@@ -16,8 +16,3 @@ def validate_tuple(_tuple=()):
         _tuple = (_tuple[0], _tuple[1])
 
     return _tuple
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-
